@@ -6,7 +6,7 @@ This is a chat application built using Streamlit, LangChain, and ChatGroq. The a
 
 Check out a quick demo of the chat application:
 
-[![Demo Video](demo/demo_video_thumbnail.png)](demo/demo_video.mp4)
+[![Demo Video]](https://github.com/YameenV/GenAi/assets/90130177/b1cbb31c-c29e-4795-b215-d81cc80c5f13)
 
 ## Features
 
