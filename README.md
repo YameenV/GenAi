@@ -28,8 +28,8 @@ Check out a quick demo of the chat application:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/YameenV/GenAi.git
+    cd GenAi
     ```
 
 2. Create a virtual environment and activate it:
